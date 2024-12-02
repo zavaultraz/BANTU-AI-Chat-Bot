@@ -1,7 +1,3 @@
-Terima kasih atas klarifikasinya! Berikut adalah contoh README yang diperbarui untuk aplikasi **BANTU** menggunakan Flutter, lengkap dengan instruksi instalasi dan cara penggunaan, serta tempat untuk menambahkan gambar tampilan aplikasi.
-
----
-
 # BANTU - Teman AI Cerdasmu
 
 **BANTU** adalah aplikasi berbasis **Flutter** yang didukung oleh teknologi **Gemini**, dirancang untuk memberikan pengalaman cerdas dalam membantu menjawab pertanyaan, memberikan saran, dan menemani aktivitasmu sehari-hari. Dengan BANTU, kamu dapat mengakses informasi, hiburan, dan solusi praktis kapan saja dan di mana saja!
