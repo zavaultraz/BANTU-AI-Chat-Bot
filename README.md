@@ -6,6 +6,11 @@ Terima kasih atas klarifikasinya! Berikut adalah contoh README yang diperbarui u
 
 **BANTU** adalah aplikasi berbasis **Flutter** yang didukung oleh teknologi **Gemini**, dirancang untuk memberikan pengalaman cerdas dalam membantu menjawab pertanyaan, memberikan saran, dan menemani aktivitasmu sehari-hari. Dengan BANTU, kamu dapat mengakses informasi, hiburan, dan solusi praktis kapan saja dan di mana saja!
 
+
+## PREVIEW
+
+![Tampilan Aplikasi BANTU](./assets/bantu.jpg)
+
 ## Fitur Utama
 
 - **Tanya Jawab Cerdas**: Dapatkan jawaban atas berbagai pertanyaan yang kamu ajukan dengan cepat dan akurat.
@@ -13,10 +18,6 @@ Terima kasih atas klarifikasinya! Berikut adalah contoh README yang diperbarui u
 - **Teman Aktivitas**: Menemanimu dalam aktivitas seperti belajar, bekerja, dan bersantai.
 - **Akses Informasi & Hiburan**: Mudah menemukan informasi terkini dan hiburan seperti berita, video, dan lainnya.
 - **Kapan saja, di mana saja**: Akses mudah, baik di desktop maupun perangkat mobile.
-
-## Tampilan Aplikasi
-
-![Tampilan Aplikasi BANTU](./assets/bantu.jpg)
 
 _Contoh tampilan antarmuka aplikasi BANTU di perangkat mobile._
 
